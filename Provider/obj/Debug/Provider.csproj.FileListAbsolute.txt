@@ -1,0 +1,11 @@
+C:\Users\Vostro\Source\Repos\DesignPattern\Provider\bin\Debug\Provider.dll
+C:\Users\Vostro\Source\Repos\DesignPattern\Provider\bin\Debug\Provider.pdb
+C:\Users\Vostro\Source\Repos\DesignPattern\Provider\bin\Debug\CityCreditUnionFactory.dll
+C:\Users\Vostro\Source\Repos\DesignPattern\Provider\bin\Debug\Interfaces.dll
+C:\Users\Vostro\Source\Repos\DesignPattern\Provider\bin\Debug\NationalCreditUnionFactory.dll
+C:\Users\Vostro\Source\Repos\DesignPattern\Provider\bin\Debug\CityCreditUnionFactory.pdb
+C:\Users\Vostro\Source\Repos\DesignPattern\Provider\bin\Debug\Interfaces.pdb
+C:\Users\Vostro\Source\Repos\DesignPattern\Provider\bin\Debug\NationalCreditUnionFactory.pdb
+C:\Users\Vostro\Source\Repos\DesignPattern\Provider\obj\Debug\Provider.csprojResolveAssemblyReference.cache
+C:\Users\Vostro\Source\Repos\DesignPattern\Provider\obj\Debug\Provider.dll
+C:\Users\Vostro\Source\Repos\DesignPattern\Provider\obj\Debug\Provider.pdb

@@ -1,0 +1,10 @@
+C:\Users\Neil\Source\Repos\FactoryApp\FactoryApp\bin\Debug\FactoryApp.exe.config
+C:\Users\Neil\Source\Repos\FactoryApp\FactoryApp\bin\Debug\FactoryApp.exe
+C:\Users\Neil\Source\Repos\FactoryApp\FactoryApp\bin\Debug\FactoryApp.pdb
+C:\Users\Neil\Source\Repos\FactoryApp\FactoryApp\obj\Debug\FactoryApp.csprojAssemblyReference.cache
+C:\Users\Neil\Source\Repos\FactoryApp\FactoryApp\obj\Debug\FactoryApp.csproj.CoreCompileInputs.cache
+C:\Users\Neil\Source\Repos\FactoryApp\FactoryApp\obj\Debug\FactoryApp.exe
+C:\Users\Neil\Source\Repos\FactoryApp\FactoryApp\obj\Debug\FactoryApp.pdb
+C:\Users\Vostro\Source\Repos\DesignPattern\FactoryApp\bin\Debug\FactoryApp.exe.config
+C:\Users\Vostro\Source\Repos\DesignPattern\FactoryApp\obj\Debug\FactoryApp.exe
+C:\Users\Vostro\Source\Repos\DesignPattern\FactoryApp\obj\Debug\FactoryApp.pdb

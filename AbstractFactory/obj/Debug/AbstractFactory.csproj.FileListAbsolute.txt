@@ -1,0 +1,14 @@
+C:\Users\Vostro\Source\Repos\DesignPattern\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\Vostro\Source\Repos\DesignPattern\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\Vostro\Source\Repos\DesignPattern\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\Vostro\Source\Repos\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\Vostro\Source\Repos\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\Vostro\Source\Repos\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\Vostro\Source\Repos\DesignPattern\AbstractFactory\bin\Debug\CityCreditUnionFactory.dll
+C:\Users\Vostro\Source\Repos\DesignPattern\AbstractFactory\bin\Debug\Interfaces.dll
+C:\Users\Vostro\Source\Repos\DesignPattern\AbstractFactory\bin\Debug\NationalCreditUnionFactory.dll
+C:\Users\Vostro\Source\Repos\DesignPattern\AbstractFactory\bin\Debug\Provider.dll
+C:\Users\Vostro\Source\Repos\DesignPattern\AbstractFactory\bin\Debug\CityCreditUnionFactory.pdb
+C:\Users\Vostro\Source\Repos\DesignPattern\AbstractFactory\bin\Debug\Interfaces.pdb
+C:\Users\Vostro\Source\Repos\DesignPattern\AbstractFactory\bin\Debug\NationalCreditUnionFactory.pdb
+C:\Users\Vostro\Source\Repos\DesignPattern\AbstractFactory\bin\Debug\Provider.pdb

@@ -1,0 +1,7 @@
+C:\Users\Vostro\Source\Repos\DesignPattern\CityCreditUnionFactory\bin\Debug\CityCreditUnionFactory.dll
+C:\Users\Vostro\Source\Repos\DesignPattern\CityCreditUnionFactory\bin\Debug\CityCreditUnionFactory.pdb
+C:\Users\Vostro\Source\Repos\DesignPattern\CityCreditUnionFactory\bin\Debug\Interfaces.dll
+C:\Users\Vostro\Source\Repos\DesignPattern\CityCreditUnionFactory\bin\Debug\Interfaces.pdb
+C:\Users\Vostro\Source\Repos\DesignPattern\CityCreditUnionFactory\obj\Debug\CityCreditUnionFactory.csprojResolveAssemblyReference.cache
+C:\Users\Vostro\Source\Repos\DesignPattern\CityCreditUnionFactory\obj\Debug\CityCreditUnionFactory.dll
+C:\Users\Vostro\Source\Repos\DesignPattern\CityCreditUnionFactory\obj\Debug\CityCreditUnionFactory.pdb

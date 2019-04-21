@@ -1,0 +1,7 @@
+C:\Users\Vostro\Source\Repos\DesignPattern\NationalCreditUnionFactory\bin\Debug\NationalCreditUnionFactory.dll
+C:\Users\Vostro\Source\Repos\DesignPattern\NationalCreditUnionFactory\bin\Debug\NationalCreditUnionFactory.pdb
+C:\Users\Vostro\Source\Repos\DesignPattern\NationalCreditUnionFactory\bin\Debug\Interfaces.dll
+C:\Users\Vostro\Source\Repos\DesignPattern\NationalCreditUnionFactory\bin\Debug\Interfaces.pdb
+C:\Users\Vostro\Source\Repos\DesignPattern\NationalCreditUnionFactory\obj\Debug\NationalCreditUnionFactory.csprojResolveAssemblyReference.cache
+C:\Users\Vostro\Source\Repos\DesignPattern\NationalCreditUnionFactory\obj\Debug\NationalCreditUnionFactory.dll
+C:\Users\Vostro\Source\Repos\DesignPattern\NationalCreditUnionFactory\obj\Debug\NationalCreditUnionFactory.pdb
