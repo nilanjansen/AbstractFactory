@@ -1,7 +1,7 @@
 Design Pattern Categories
 
 Design pattern categories
-- [Voiceover] There are three categories in design patterns: creational, structural, and behavioral.
+There are three categories in design patterns: creational, structural, and behavioral.
 
 
  Creational patterns-  
